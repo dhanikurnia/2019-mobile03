@@ -43,6 +43,6 @@
 		android:layout_alignParentEnd="true"
 		android:layout_alignParentRight="true"
 		android:layout_marginTop="590dp"
-		android:text="Right Below Button" />
+		android:text="Right Above Button" />
 
 </RelativeLayout>
